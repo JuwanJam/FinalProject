@@ -2,7 +2,7 @@
 FinalProject by 세나개
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/90138160/165911868-ce7b9b0e-08c7-4563-b6ee-6a387c11626e.png"> 
+ <img src="https://user-images.githubusercontent.com/110036792/181253203-6ca9a1ca-21b7-42c3-b380-4319e9cdc50e.png"> 
 </p>
 
 
