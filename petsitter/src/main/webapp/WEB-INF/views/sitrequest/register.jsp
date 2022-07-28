@@ -129,7 +129,6 @@ textarea{
     }
 </script>
 
-<%=request.getRealPath("/")%>
 
 <%@ include file="../includes/footer.jsp"%>
 
