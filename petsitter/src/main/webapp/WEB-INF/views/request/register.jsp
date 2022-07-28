@@ -312,7 +312,6 @@ $("#payment").change(function() {
    }
  });
 </script>
-<%=request.getRealPath("/")%>
 
 
 
