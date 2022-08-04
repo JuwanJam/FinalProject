@@ -1,7 +1,6 @@
 package kr.co.controller;
 
 import java.io.File;
-import java.security.Principal;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
@@ -21,7 +20,6 @@ import kr.co.domain.Criteria;
 import kr.co.domain.PageDTO;
 import kr.co.domain.SitRequestReplyVO;
 import kr.co.domain.SitRequestVO;
-import kr.co.service.MemberService;
 import kr.co.service.SitRequestReplyService;
 import kr.co.service.SitRequestService;
 import kr.co.utils.UploadFileUtils;
@@ -36,7 +34,6 @@ public class SitRequestController {
 
 	private SitRequestService service;
 	private SitRequestReplyService replyService;
-	private MemberService memberService;
 
 
 	@Resource(name = "uploadPath")

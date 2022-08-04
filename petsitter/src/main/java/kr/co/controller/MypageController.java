@@ -1,7 +1,6 @@
 package kr.co.controller;
 
 import java.security.Principal;
-import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
@@ -13,7 +12,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import kr.co.domain.MemberVO;
-import kr.co.domain.RequestVO;
 import kr.co.service.MemberService;
 import kr.co.service.RequestService;
 import lombok.AllArgsConstructor;

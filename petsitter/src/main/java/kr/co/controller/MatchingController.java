@@ -9,17 +9,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import kr.co.service.MemberService;
 import kr.co.service.RequestService;
 import kr.co.service.SitRequestReplyService;
-import kr.co.service.SitRequestService;
 import lombok.AllArgsConstructor;
-import lombok.extern.log4j.Log4j;
 
 @RequestMapping("/matching/*")
 @AllArgsConstructor
 @Controller
-@Log4j
+
 public class MatchingController {
 	private RequestService requestService;
-	private SitRequestService sitrequestService;
 	private SitRequestReplyService sitrequestReplyService;
 	private MemberService memberService;
 

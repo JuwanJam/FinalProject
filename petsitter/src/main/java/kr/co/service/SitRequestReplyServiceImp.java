@@ -10,7 +10,6 @@ import kr.co.domain.Criteria;
 
 import kr.co.domain.SitRequestReplyPageDTO;
 import kr.co.domain.SitRequestReplyVO;
-import kr.co.mapper.MemberMapper;
 import kr.co.mapper.SitRequestMapper;
 import kr.co.mapper.SitRequestReplyMapper;
 import lombok.Setter;
