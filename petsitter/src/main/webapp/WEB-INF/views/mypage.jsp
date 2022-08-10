@@ -64,7 +64,7 @@
          </div>
          <div class="name">
             <div>
-               <c:out value="${info.email}" />123
+               <c:out value="${info.email}" />
             </div>
          </div>
          <div class="name">
