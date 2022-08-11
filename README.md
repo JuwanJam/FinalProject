@@ -62,13 +62,19 @@ FinalProject by 세나개
  
 ![image](https://user-images.githubusercontent.com/90138160/167751290-e1fe1f35-2cc1-47b4-99b4-f7062553dde0.png)
  
- <summary>돌봄요청하기</summary>
+ <summary>아이디/비밀번호찾기</summary>
  
  ![image](https://user-images.githubusercontent.com/90138160/167753532-4a80d045-79a1-40b5-83d5-eff6424eb57a.png)
  
 </details>
 <details>
-    <summary>돌봄</summary>
+    <summary>돌봄요청하기</summary>
+ 
+![InkedKakaoTalk_20220510_131857649_LI](https://user-images.githubusercontent.com/90138160/167750556-8a1a5de2-7f67-4162-a6dc-3ac767bdf6ff.jpg)
+ 
+</details>
+<details>
+    <summary>돌봄매니저소개</summary>
  
 ![InkedKakaoTalk_20220510_131857649_LI](https://user-images.githubusercontent.com/90138160/167750556-8a1a5de2-7f67-4162-a6dc-3ac767bdf6ff.jpg)
  
