@@ -58,31 +58,31 @@ FinalProject by 세나개
 # 3. 주요 서비스 화면
 > 토글 클릭하시면 이미지 확인이 가능합니다.
 <details>
-    <summary>메인 달력화면</summary>
+    <summary>회원가입/로그인</summary>
  
 ![image](https://user-images.githubusercontent.com/90138160/167751290-e1fe1f35-2cc1-47b4-99b4-f7062553dde0.png)
  
- <summary>이번 달 워드클라우드 및 감정선</summary>
+ <summary>돌봄요청하기</summary>
  
  ![image](https://user-images.githubusercontent.com/90138160/167753532-4a80d045-79a1-40b5-83d5-eff6424eb57a.png)
  
 </details>
 <details>
-    <summary>결과창</summary>
+    <summary>돌봄</summary>
  
 ![InkedKakaoTalk_20220510_131857649_LI](https://user-images.githubusercontent.com/90138160/167750556-8a1a5de2-7f67-4162-a6dc-3ac767bdf6ff.jpg)
  
 </details>
 
 <details>
-    <summary>공유 일기 리스트</summary>
+    <summary>매칭정보</summary>
  
 ![image](https://user-images.githubusercontent.com/90138160/167752496-7146bf10-3e1a-42ee-ab63-b34f6107ed1b.png)
  
 </details>
 
 <details>
-    <summary>내 프로필</summary>
+    <summary>마이페이지</summary>
  
 ![image](https://user-images.githubusercontent.com/90138160/167753541-03f101ad-23b5-48b2-bdf1-c20b8f86eb6c.png)
  
