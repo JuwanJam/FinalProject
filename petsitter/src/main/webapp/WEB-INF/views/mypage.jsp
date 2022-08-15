@@ -17,7 +17,7 @@
          <!-- OnClick="location.href ='http://주소'" -->
          Mypage
       </div>
-      <div class="left-menu" type="button" id="completed">완료된 이용자 요청</div>
+      <div class="left-menu" type="button" id="completed">이용자 요청</div>
       <div class="left-menu" type="button" id="managed">완료된 매니저 요청</div>
       <div class="left-menu" type="button" id="mypoint">돌봄페이 충전</div>
    </div>
