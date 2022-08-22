@@ -109,5 +109,5 @@ FinalProject by 세나개
 # 5. Architecture
 
 # 6. ERD
-![에이블스쿨 AI 빅프로젝트_ERD_05조 (1) (1)](https://user-images.githubusercontent.com/66732995/167747338-8f355dcc-b2aa-48c0-a31e-b95080965fb0.png)
+![erd](https://user-images.githubusercontent.com/110036792/185950328-85b61f2c-0a4a-4001-b1f6-8142f9e0136e.png)
 
