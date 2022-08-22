@@ -60,17 +60,23 @@ FinalProject by 세나개
 <details>
     <summary>회원가입/로그인</summary>
  
-![image](https://user-images.githubusercontent.com/90138160/167751290-e1fe1f35-2cc1-47b4-99b4-f7062553dde0.png)
+![회원가입,로그인](https://user-images.githubusercontent.com/110036792/185933984-fdf85689-3a74-4800-b72c-c1b5cbde52d7.png)
  
- <summary>아이디/비밀번호찾기</summary>
- 
- ![image](https://user-images.githubusercontent.com/90138160/167753532-4a80d045-79a1-40b5-83d5-eff6424eb57a.png)
+
  
 </details>
 <details>
     <summary>돌봄요청하기</summary>
  
 ![돌봄요청하기](https://user-images.githubusercontent.com/110036792/185927103-b9f04d0e-8494-4a6a-ac2e-a6289909f8c6.png)
+
+ <summary>글작성/글 보기</summary>
+ 
+![글작성,내용](https://user-images.githubusercontent.com/110036792/185933978-2d5a0bea-7f36-4df0-9cfa-86f94f7d2159.png)
+
+ <summary>댓글/매니저정보</summary>
+ 
+![댓글, 정보](https://user-images.githubusercontent.com/110036792/185933980-67da29d0-732d-4deb-b534-90d6695ff680.png)
 
 </details>
 <details>
@@ -83,8 +89,8 @@ FinalProject by 세나개
 <details>
     <summary>매칭정보</summary>
  
-![image](https://user-images.githubusercontent.com/90138160/167752496-7146bf10-3e1a-42ee-ab63-b34f6107ed1b.png)
- 
+![매칭정보](https://user-images.githubusercontent.com/110036792/185933981-4d3fd167-6fb7-46ad-a97e-600c0952d6b3.png) 
+
 </details>
 
 <details>
@@ -97,7 +103,7 @@ FinalProject by 세나개
 
 # 4. Service Flow
 <p align="center">
- <img src="https://user-images.githubusercontent.com/90138160/165701902-97f4d696-584c-4155-8116-7c38d8e43640.png"> 
+ ![flow](https://user-images.githubusercontent.com/110036792/185933966-cb931ec5-20b9-40a9-8215-7a5e5b3064b2.png)
 </p>
 
 
