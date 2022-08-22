@@ -102,9 +102,7 @@ FinalProject by 세나개
 
 
 # 4. Service Flow
-<p align="center">
- ![flow](https://user-images.githubusercontent.com/110036792/185933966-cb931ec5-20b9-40a9-8215-7a5e5b3064b2.png)
-</p>
+![flow](https://user-images.githubusercontent.com/110036792/185933966-cb931ec5-20b9-40a9-8215-7a5e5b3064b2.png)
 
 
 # 5. Architecture
