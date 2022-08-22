@@ -70,13 +70,13 @@ FinalProject by 세나개
 <details>
     <summary>돌봄요청하기</summary>
  
-![InkedKakaoTalk_20220510_131857649_LI](https://user-images.githubusercontent.com/90138160/167750556-8a1a5de2-7f67-4162-a6dc-3ac767bdf6ff.jpg)
- 
+![돌봄요청하기](https://user-images.githubusercontent.com/110036792/185927103-b9f04d0e-8494-4a6a-ac2e-a6289909f8c6.png)
+
 </details>
 <details>
     <summary>돌봄매니저소개</summary>
  
-![InkedKakaoTalk_20220510_131857649_LI](https://user-images.githubusercontent.com/90138160/167750556-8a1a5de2-7f67-4162-a6dc-3ac767bdf6ff.jpg)
+![돌봄매니처소개](https://user-images.githubusercontent.com/110036792/185927111-fe02bde7-5a59-416f-867f-a0d5556e427b.png) 
  
 </details>
 
