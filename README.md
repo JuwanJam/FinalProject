@@ -90,8 +90,8 @@ FinalProject by 세나개
 <details>
     <summary>마이페이지</summary>
  
-![image](https://user-images.githubusercontent.com/90138160/167753541-03f101ad-23b5-48b2-bdf1-c20b8f86eb6c.png)
- 
+![localhost_8080_mypage](https://user-images.githubusercontent.com/110036792/185930820-127dd02d-1c29-4439-922b-4d0ad99057bf.png) 
+
 </details>
 
 
