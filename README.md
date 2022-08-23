@@ -11,8 +11,21 @@ FinalProject by 세나개
 &nbsp;
 # :blue_book:행복하게 돌볼고양
 > 2021.05.19 ~ 2021.07.26 Spring FinalProject
-* 원하는 사용자 간 반려동물을 맡길 수 있는 반려동물 돌봄 서비스입니다.
-#### :bulb: 즉, 누구나 돌봄요청을 할 수 있고, 누구나 돌봄매니저가 될 수 있는 양방향 반려동물 돌봄 서비스
+#### 원하는 사용자 간 반려동물을 맡길 수 있는 반려동물 돌봄 서비스입니다.
+##### :bulb: 즉, 누구나 돌봄요청을 할 수 있고, 누구나 돌봄매니저가 될 수 있는 양방향 반려동물 돌봄 서비스
+&nbsp;
+
+## 🛠활용기술
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
 &nbsp;
 # 목차
 [1. 조원 소개](#1-조원-소개)
@@ -23,11 +36,9 @@ FinalProject by 세나개
 
 [4. Service Flow](#4-service-flow)
 
-[5. Architecture](#5-architecture)
+[5. ERD](#5-erd)
 
-[6. ERD](#6-erd)
 
-[7. 실행 방법](#7-실행-방법)
 
 
 # 1. 조원 소개
@@ -107,8 +118,6 @@ FinalProject by 세나개
 ![flow](https://user-images.githubusercontent.com/110036792/185933966-cb931ec5-20b9-40a9-8215-7a5e5b3064b2.png)
 
 
-# 5. Architecture
-
-# 6. ERD
+# 5. ERD
 ![erd](https://user-images.githubusercontent.com/110036792/185950328-85b61f2c-0a4a-4001-b1f6-8142f9e0136e.png)
 
